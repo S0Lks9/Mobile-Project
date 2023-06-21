@@ -7,3 +7,5 @@
 ### ## **EXECUÇÃO**
 
 A aplicação pode ser executada ao ser feito o dowload da pasta "mobile" e executando o comando `yarn start` no terminal da sua maquina
+
+criador: Pytter
